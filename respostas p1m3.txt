@@ -1,0 +1,8 @@
+1.Existem outras entidades além dessas?
+R: Não.
+
+2.Quais são os principais campos e tipos?
+R: Id_Empresas (numeric), ID_Tecnologia (numeric)...
+
+3.Como essas entidades estão relacionadas?
+R: Pela relação cursar ou contratar.
